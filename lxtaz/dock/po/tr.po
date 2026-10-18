@@ -1,0 +1,55 @@
+# Turkish translation of lxtaz-dock.
+# Copyright (C) 2026 SliTaz GNU/Linux - BSD License
+# This file is distributed under the same license as the lxtaz-ctrl package.
+# Mehmet Akif <madanadam@gmail.com>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lxtaz-dock 1.0\n"
+"Report-Msgid-Bugs-To: pankso@slitaz.org\n"
+"POT-Creation-Date: 2026-09-15 21:18+0200\n"
+"PO-Revision-Date: 2026-09-15 21:18+0200\n"
+"Last-Translator: Mehmet Akif <madanadam@gmail.com>\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+
+#: ../src/lxtaz-dock.c
+msgid "Remove '%s' from favorites"
+msgstr "'%s' favorilerden çıkar"
+
+#: ../src/lxtaz-dock.c
+msgid "Preferences"
+msgstr "Ayarlar"
+
+#: ../src/lxtaz-dock.c
+msgid "Favorite applications:"
+msgstr "Favori uygulamalar:"
+
+#: ../src/lxtaz-dock.c
+msgid "Up"
+msgstr "Üst"
+
+#: ../src/lxtaz-dock.c
+msgid "Down"
+msgstr "Alt"
+
+#: ../src/lxtaz-dock.c
+msgid "Remove"
+msgstr "Çıkar"
+
+#: ../src/lxtaz-dock.c
+msgid "Icon size (px):"
+msgstr "Simge boyutu (px) :"
+
+#: ../src/lxtaz-dock.c
+msgid "Add an application:"
+msgstr "Uygulama ekle :"
+
+#: ../src/lxtaz-dock.c
+msgid "Search applications…"
+msgstr "Uygulamaları ara…"

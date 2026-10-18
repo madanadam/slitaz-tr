@@ -1,0 +1,129 @@
+# Turkish translation of lxtaz-ctrl.
+# Copyright (C) 2026 SliTaz GNU/Linux - BSD License
+# This file is distributed under the same license as the lxtaz-ctrl package.
+# Mehmet Akif <madanadam@gmail.com>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lxtaz-ctrl 1.0\n"
+"Report-Msgid-Bugs-To: pankso@slitaz.org\n"
+"POT-Creation-Date: 2026-09-15 21:18+0200\n"
+"PO-Revision-Date: 2026-09-15 21:18+0200\n"
+"Last-Translator: Mehmet Akif <madanadam@gmail.com>\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "On"
+msgstr "Açık"
+
+msgid "Off"
+msgstr "Kapalı"
+
+msgid "Offline"
+msgstr "Bağlı değil"
+
+msgid "Wired"
+msgstr "Kablolu"
+
+#, c-format
+msgid "Wired · %d Mb/s"
+msgstr "Kablolu · %d Mb/s"
+
+#, c-format
+msgid "Wired · %d Gb/s"
+msgstr "Kablolu · %d Gb/s"
+
+msgid "Muted"
+msgstr "Sessiz"
+
+msgid "No sound device"
+msgstr "Ses cihazı yok"
+
+msgid "Charging"
+msgstr "Şarjda"
+
+msgid "Discharging"
+msgstr "Boşalıyor"
+
+msgid "Full"
+msgstr "Dolu"
+
+msgid "Unknown"
+msgstr "Bilinmiyor"
+
+msgid "Networks…"
+msgstr "Ağlar…"
+
+msgid "Devices…"
+msgstr "Cihazlar…"
+
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Brightness"
+msgstr "Parlaklık"
+
+msgid "Packages"
+msgstr "Paketler"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "Dark mode"
+msgstr "Koyu mod"
+
+msgid "Easier on the eyes"
+msgstr "Görmesi kolay"
+
+msgid "Bright and clear"
+msgstr "Parlak ve berrak"
+
+msgid "Theme not installed"
+msgstr "Tema yüklenmemiş"
+
+msgid "Open mixer (right-click: mute)"
+msgstr "Mikseri aç (sağ-tık : sessiz)"
+
+msgid "Sound"
+msgstr "Ses"
+
+msgid "Battery"
+msgstr "Batarya"
+
+msgid "Network"
+msgstr "Ağ"
+
+msgid "Memory"
+msgstr "Bellek"
+
+#, c-format
+msgid "%.1f / %.1f GB"
+msgstr "%.1f / %.1f Go"
+
+msgid "Log Out"
+msgstr "Çık"
+
+msgid "Restart"
+msgstr "Yeniden başlat"
+
+msgid "Shut Down"
+msgstr "Kapat"
+
+#, c-format
+msgid "%s · %d%%"
+msgstr "%s · %d%%"
+
+#, c-format
+msgid "%d%%"
+msgstr "%d%%"
+
+#, c-format
+msgid "%d%% · %s"
+msgstr "%d%% · %s"

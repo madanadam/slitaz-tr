@@ -1,0 +1,105 @@
+# Turkish translation of lxtaz-dash.
+# Copyright (C) 2026 SliTaz GNU/Linux - BSD License
+# This file is distributed under the same license as the lxtaz-ctrl package.
+# Mehmet Akif <madanadam@gmail.com>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lxtaz-dash 1.0\n"
+"Report-Msgid-Bugs-To: pankso@slitaz.org\n"
+"POT-Creation-Date: 2026-09-15 21:18+0200\n"
+"PO-Revision-Date: 2026-09-15 21:18+0200\n"
+"Last-Translator: Mehmet Akif <madanadam@gmail.com>\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+
+#: ../src/lxtaz-dash.c:53
+msgid "All"
+msgstr "Tümü"
+
+#: ../src/lxtaz-dash.c:54
+msgid "Multimedia"
+msgstr "Çokluortam"
+
+#: ../src/lxtaz-dash.c:55
+msgid "Internet"
+msgstr "İnternet"
+
+#: ../src/lxtaz-dash.c:56
+msgid "Office"
+msgstr "Ofis"
+
+#: ../src/lxtaz-dash.c:57
+msgid "Graphics"
+msgstr "Grafik"
+
+#: ../src/lxtaz-dash.c:58
+msgid "Games"
+msgstr "Oyun"
+
+#: ../src/lxtaz-dash.c:59
+msgid "Accessories"
+msgstr "Araçlar"
+
+#: ../src/lxtaz-dash.c:60
+msgid "System"
+msgstr "Sistem"
+
+#: ../src/lxtaz-dash.c:61
+msgid "Preferences"
+msgstr "Ayarlar"
+
+#: ../src/lxtaz-dash.c:62
+msgid "Development"
+msgstr "Geliştirme"
+
+#: ../src/lxtaz-dash.c:188
+#, c-format
+msgid ""
+"Unable to launch '%s':\n"
+"%s"
+msgstr ""
+"'%s' çalıştırılamadı :\n"
+"%s"
+
+#: ../src/lxtaz-dash.c:296
+#, c-format
+msgid "%d application"
+msgid_plural "%d applications"
+msgstr[0] "%d uygulama"
+msgstr[1] "%d uygulama"
+
+#: ../src/lxtaz-dash.c:477
+msgid "Type to search for an application…"
+msgstr "Bir uygulamayı bulmak için yazın…"
+
+#: ../src/lxtaz-dash.c:535
+msgid "Super: open/close   •   Esc: close   •   Enter: launch 1st result"
+msgstr "Super : aç/kapa   •   Esc : kapa   •   Enter : ilk sonucu çalıştır"
+
+msgid "Favorites"
+msgstr "Favoriler"
+
+msgid "Add to favorites"
+msgstr "Favorilere ekle"
+
+msgid "Remove from favorites"
+msgstr "Favorilerden çıkar"
+
+#: ../src/lxtaz-dash.c:507
+#, c-format
+msgid "Search \"%s\" in packages…"
+msgstr "\"%s\" paketlerde ara…"
+
+#: ../src/lxtaz-dash.c:759
+msgid "Packages"
+msgstr "Paketler"
+
+#: ../src/lxtaz-dash.c:767
+msgid "Log out, restart or shut down"
+msgstr "Çık, başlat veya kapat"

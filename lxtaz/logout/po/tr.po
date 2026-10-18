@@ -1,0 +1,63 @@
+# Turkish translation of lxtaz-logout.
+# Copyright (C) 2026 SliTaz GNU/Linux - BSD License
+# This file is distributed under the same license as the lxtaz-ctrl package.
+# Mehmet Akif <madanadam@gmail.com>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lxtaz-logout 1.0\n"
+"Report-Msgid-Bugs-To: pankso@slitaz.org\n"
+"POT-Creation-Date: 2026-09-15 21:18+0200\n"
+"PO-Revision-Date: 2026-09-15 21:18+0200\n"
+"Last-Translator: Mehmet Akif <madanadam@gmail.com>\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "SliTaz Logout"
+msgstr "SliTaz Çıkış"
+
+msgid "SliTaz Logout - Please choose an action:"
+msgstr "SliTaz Çık - Lütfen işlem seçin:"
+
+msgid "Close X session"
+msgstr "X oturumunu kapat"
+
+msgid "Reboot system"
+msgstr "Yeniden başlat"
+
+msgid "Shutdown system"
+msgstr "Kapat"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "OK"
+msgstr "Tamam"
+
+msgid "Closing the X session..."
+msgstr "X oturumunu kapatılıyor..."
+
+msgid "Rebooting the system..."
+msgstr "Sistem yeniden başlatılıyor..."
+
+msgid "Shutting down the system..."
+msgstr "Sistem kapatılıyor..."
+
+#, c-format
+msgid "%s\n\nSelected action will be executed automatically in %d seconds."
+msgstr "%s\n\nSeçili işlem %d saniye içinde çalıştırılacaktır."
+
+msgid ""
+"Usage: lxtaz-logout [exit|reboot|halt] [--force] [--dry-run]\n"
+"  no argument shows the logout dialog.\n"
+"  --force skips the 5 s confirmation (used by lxtaz-ctrl).\n"
+"  --dry-run runs the dialogs but never executes the action (tests)."
+msgstr ""
+"Kullanım : lxtaz-logout [exit|reboot|halt] [--force] [--dry-run]\n"
+"  seçenek yoksa çıkış menüsü gösterilir.\n"
+"  --force 5 sn onay süresini es--beklemez (lxtaz-ctrl kullanır).\n"
+"  --dry-run pencere iş yapmadan açılır (deneme)."

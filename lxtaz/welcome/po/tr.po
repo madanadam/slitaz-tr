@@ -1,0 +1,95 @@
+# Turkish translation of lxtaz-welcome.
+# Copyright (C) 2026 SliTaz GNU/Linux - BSD License
+# This file is distributed under the same license as the lxtaz-ctrl package.
+# Mehmet Akif <madanadam@gmail.com>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lxtaz-welcome1.0\n"
+"Report-Msgid-Bugs-To: pankso@slitaz.org\n"
+"POT-Creation-Date: 2026-09-15 21:18+0200\n"
+"PO-Revision-Date: 2026-09-15 21:18+0200\n"
+"Last-Translator: Mehmet Akif <madanadam@gmail.com>\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Install software"
+msgstr "Uygulama yükle"
+
+msgid "Browse and add thousands of packages"
+msgstr "Binlerce paketi inceleyin ve yükleyin"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Network, users, language, hardware... Quick settings: Ctrl+Super"
+msgstr "Ağ, kullanıcılar, dil, donanım... Hızlı ayarlar: Ctrl+Super"
+
+msgid "Install SliTaz"
+msgstr "SliTaz kur"
+
+msgid "Copy this live system to a disk or a USB key"
+msgstr "Çalışan sistemi diske veya USB içine kur"
+
+msgid "Terminal"
+msgstr "Uçbirim"
+
+msgid "The command line, su for admin tasks"
+msgstr "Komut satırı, yönetici görevleri için su"
+
+msgid "Report a problem"
+msgstr "Sorun bildir"
+
+msgid "Something broken? Tell us in two clicks"
+msgstr "Birşeyler bozuk mu? İki tıkla bize bildirin"
+
+msgid "Forum"
+msgstr "Forum"
+
+msgid "Ask questions, help each other"
+msgstr "Sorularınızı sorun, birbirinize yardım edin"
+
+msgid "Documentation"
+msgstr "Belgelendirme"
+
+msgid "Handbook, guides and how-tos"
+msgstr "Manuel, guides et tutoriels"
+
+msgid "Welcome to SliTaz"
+msgstr "SliTaz hoşgeldiniz"
+
+#, c-format
+msgid "Welcome to SliTaz %s"
+msgstr "SliTaz %s hoşgeldiniz"
+
+msgid "Small, fast and yours. Here is where to start."
+msgstr "Küçük, hızlı ve sizin. Başlanacak yer burası."
+
+msgid "Get started"
+msgstr "Başlangıç"
+
+msgid "Help and community"
+msgstr "Yardım ve topluluk"
+
+msgid "Release notes"
+msgstr "Sürüm notları"
+
+msgid "What is new in this release"
+msgstr "Bu sürümde neler yeni"
+
+msgid "Show at startup"
+msgstr "Başlangıçta göster"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid ""
+"Usage: lxtaz-welcome [--autostart]\n"
+"  --autostart shows nothing if \"Show at startup\" was unticked."
+msgstr ""
+"Usage : lxtaz-welcome [--autostart]\n"
+"  --autostart \"Başlangıçta göster\" seçilmemişse birşey göstermez."
