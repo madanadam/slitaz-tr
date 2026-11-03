@@ -1,0 +1,1333 @@
+# Copyright (C) 2026
+# This file is distributed under the same license as the yad package.
+#
+# Mehmet Akif (madanadam) <madanadam@gmail.com>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yad\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-07 09:25+0200\n"
+"PO-Revision-Date: 2026-11-03 12:48+0300\n"
+"Last-Translator: Mehmet Akif <madandam@gmail.com>\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "OK"
+msgstr "Tamam"
+
+msgid "Cancel"
+msgstr "İptal"
+
+#: ../src/about.c:30
+msgid "translator-credits"
+msgstr "madanadam (Mehmet Akif) <madanadam@gmail.com>"
+
+#: ../src/about.c:32
+msgid ""
+"YAD is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as "
+"published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.\n"
+"\n"
+"YAD is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty "
+"of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License along with YAD. If not, see <http://www.gnu.org/"
+"licenses/>."
+msgstr ""
+"YAD özgür bir yazılımdır; Özgür Yazılım Vakfı tarafından yayınlanan GNU Genel Kamu Lisansının 3. sürümü veya (isteğe "
+"bağlı olarak) daha sonraki herhangi bir sürümü kapsamında yeniden dağıtabilir ve/veya değiştirebilirsiniz.\n"
+"\n"
+"YAD faydalı olması amacıyla ancak HERHANGİ BİR GARANTİ OLMAKSIZIN dağıtılmaktadır; TİCARİ ELVERİŞLİLİK veya BELİRLİ "
+"BİR AMACA UYGUNLUK garantisi dahi yoktur. Daha fazla ayrıntı için GNU Genel Kamu Lisansına bakın.\n"
+"\n"
+"YAD ile birlikte GNU Genel Kamu Lisansının bir kopyasını almış olmanız gerekir. Yoksa <http://www.gnu.org/licenses/> "
+"adresine bakınız."
+
+#: ../src/about.c:50
+msgid ""
+"Yet Another Dialog\n"
+"(show dialog boxes from shell scripts)\n"
+"\n"
+"Based on Zenity code\n"
+msgstr ""
+"Yine Ayrı Diyalog\n"
+"\n"
+"(kabuk komut dosyası ile iletişim kutusu gösterir)\n"
+"\n"
+"Zenity kodunu temel alır\n"
+
+#: ../src/calendar.c:39 ../src/text.c:389
+#, c-format
+msgid "Cannot open file '%s': %s\n"
+msgstr "'%s' dosyası açılamıyor: %s\n"
+
+#: ../src/entry.c:172 ../src/scale.c:39
+#, c-format
+msgid "Maximum value must be greater than minimum value.\n"
+msgstr "Maksimum değer minimum değerden büyük olmalıdır.\n"
+
+#: ../src/entry.c:179 ../src/scale.c:48
+#, c-format
+msgid "Initial value less than minimal.\n"
+msgstr "Başlangıç değeri minimumun altında.\n"
+
+#: ../src/entry.c:184 ../src/scale.c:53
+#, c-format
+msgid "Initial value greater than maximum.\n"
+msgstr "Başlangıç değeri maksimumdan büyük.\n"
+
+#: ../src/form.c:372
+msgid "Select files"
+msgstr "Dosyaları seç"
+
+#: ../src/form.c:380
+msgid "Select folders"
+msgstr "Klasörleri seç"
+
+#: ../src/form.c:443
+msgid "Select or create file"
+msgstr "Dosya seç veya oluştur"
+
+#: ../src/form.c:451
+msgid "Select or create folder"
+msgstr "Klasör seç veya oluştur"
+
+#: ../src/form.c:488
+msgid "Select date"
+msgstr "Tarih seç"
+
+#: ../src/form.c:689
+msgid "Select file"
+msgstr "Dosya seç"
+
+#: ../src/form.c:703
+msgid "Select folder"
+msgstr "Klasör seç"
+
+#: ../src/icons.c:321
+#, c-format
+msgid "Unable to parse file %s: %s\n"
+msgstr "%s dosyası ayrıştırılamıyor: %s\n"
+
+#: ../src/icons.c:338
+#, c-format
+msgid "Unable to open directory %s: %s\n"
+msgstr "%s dizini açılamıyor: %s\n"
+
+#: ../src/main.c:102 ../src/main.c:233
+#, c-format
+msgid "%d sec"
+msgstr "%d sn"
+
+#: ../src/main.c:656
+#, c-format
+msgid "Unable to parse command line: %s\n"
+msgstr "Komut satırı ayrıştırılamıyor: %s\n"
+
+#: ../src/notification.c:118
+#, c-format
+msgid "Could not load notification icon '%s': %s\n"
+msgstr "'%s' bildirim simgesi yüklenemedi: %s\n"
+
+#: ../src/notification.c:301
+#, c-format
+msgid "Invalid UTF-8 in tooltip!\n"
+msgstr "Araç ipucunda geçersiz UTF-8!\n"
+
+#: ../src/notification.c:345
+#, c-format
+msgid "Unknown command '%s'\n"
+msgstr "Bilinmeyen komut '%s'\n"
+
+#: ../src/notification.c:380
+msgid "Yad notification"
+msgstr "Yad bildirimi"
+
+#: ../src/list.c:856
+msgid "Add row"
+msgstr "Satır ekle"
+
+#: ../src/list.c:863
+msgid "Delete row"
+msgstr "Satırı sil"
+
+#: ../src/list.c:870
+msgid "Duplicate row"
+msgstr "Yinelenen satır"
+
+#: ../src/list.c:897
+#, c-format
+msgid "No column titles specified for List dialog.\n"
+msgstr "Liste kutusu için sütun başlığı belirtilmedi.\n"
+
+#: ../src/option.c:69
+msgid "Set the dialog title"
+msgstr "Kutu başlığını ayarla"
+
+#: ../src/option.c:70
+msgid "TITLE"
+msgstr "BAŞLIK"
+
+#: ../src/option.c:75
+msgid "Set the window icon"
+msgstr "Pencere simgesini ayarla"
+
+#: ../src/option.c:76
+msgid "ICONPATH"
+msgstr "SIMGEYOLU"
+
+#: ../src/option.c:81
+msgid "Set the width"
+msgstr "Genişliği ayarla"
+
+#: ../src/option.c:82
+msgid "WIDTH"
+msgstr "GENİŞLİK"
+
+#: ../src/option.c:87
+msgid "Set the height"
+msgstr "Yüksekliği ayarla"
+
+#: ../src/option.c:88
+msgid "HEIGHT"
+msgstr "YÜKSEKLİK"
+
+#: ../src/option.c:93
+msgid "Set the window geometry"
+msgstr "Pencere boyutlarını ayarla"
+
+#: ../src/option.c:94
+msgid "WxH+X+Y"
+msgstr "GxY+X+Y"
+
+#: ../src/option.c:99
+msgid "Set dialog timeout in seconds"
+msgstr "Kutu zaman aşımını saniye olarak ayarla"
+
+#: ../src/option.c:100
+msgid "TIMEOUT"
+msgstr "ZAMAN AŞIMI"
+
+#: ../src/option.c:105
+msgid "Show remaining time indicator (top, bottom, left, right)"
+msgstr "Kalan süre göstergesini göster (üst, alt, sol, sağ)"
+
+#: ../src/option.c:106
+msgid "POS"
+msgstr "YER"
+
+#: ../src/option.c:111
+msgid "Set the dialog text"
+msgstr "Kutu metnini ayarla"
+
+#: ../src/option.c:112 ../src/option.c:142 ../src/option.c:391 ../src/option.c:397 ../src/option.c:403
+#: ../src/option.c:543 ../src/option.c:971 ../src/option.c:1010
+msgid "TEXT"
+msgstr "METİN"
+
+#: ../src/option.c:117
+msgid "Set the dialog text alignment (left, center, right, fill)"
+msgstr "Kutu metni hizalamasını ayarla (sol, orta, sağ, dolgu)"
+
+#: ../src/option.c:118 ../src/option.c:160 ../src/option.c:566 ../src/option.c:738 ../src/option.c:820
+#: ../src/option.c:863 ../src/option.c:937 ../src/option.c:1138
+msgid "TYPE"
+msgstr "TİP"
+
+#: ../src/option.c:123
+msgid "Set the dialog image"
+msgstr "Kutu resmini ayarla"
+
+#: ../src/option.c:124 ../src/option.c:427 ../src/option.c:439
+msgid "IMAGE"
+msgstr "GÖRÜNTÜ"
+
+#: ../src/option.c:129
+msgid "Show image above main widget"
+msgstr "Resmi ana widget üzerinde göster"
+
+#: ../src/option.c:135
+msgid "Use specified icon theme instead of default"
+msgstr "Varsayılan yerine belirtilen simge temasını kullan"
+
+#: ../src/option.c:136
+msgid "THEME"
+msgstr "TEMA"
+
+#: ../src/option.c:141
+msgid "Hide main widget with expander"
+msgstr "Genişleticiyle ana widgetı gizle"
+
+#: ../src/option.c:147
+msgid "Add dialog button (may be used multiple times)"
+msgstr "Kutu düğmesi ekle (birden çok kez kullanılabilir)"
+
+#: ../src/option.c:148
+msgid "NAME:ID"
+msgstr "İSİM:Kimlik"
+
+#: ../src/option.c:153
+msgid "Don't show buttons"
+msgstr "Tuşları gösterme"
+
+#: ../src/option.c:159
+msgid "Set buttons layout type (spread, edge, start, end or center)"
+msgstr "Tuş düzen türünü ayarla (yay, kenar, baş, son veya orta)"
+
+#: ../src/option.c:165
+msgid "Don't use pango markup language in dialog's text"
+msgstr "Kutu metninde pango biçimlendirme dilini kullanma"
+
+#: ../src/option.c:172
+msgid "Add separator between dialog and buttons"
+msgstr "Kutu ve tuşlar arasına ayırıcı ekle"
+
+#: ../src/option.c:179
+msgid "Set window borders"
+msgstr "Pencere kenarlıklarını ayarla"
+
+#: ../src/option.c:180 ../src/option.c:259 ../src/option.c:572 ../src/option.c:744 ../src/option.c:750
+#: ../src/option.c:756 ../src/option.c:762 ../src/option.c:768 ../src/option.c:869
+msgid "NUMBER"
+msgstr "SAYI"
+
+#: ../src/option.c:185
+msgid "Always print result"
+msgstr "Her zaman sonucu yazdır"
+
+#: ../src/option.c:191
+msgid "Dialog text can be selected"
+msgstr "Kutu metni seçilebilir"
+
+#: ../src/option.c:198
+msgid "Set window sticky"
+msgstr "Pencereyi yapışkan yap"
+
+#: ../src/option.c:204
+msgid "Set window unresizable"
+msgstr "Pencereyi değiştirilemez yap"
+
+#: ../src/option.c:210
+msgid "Place window on top"
+msgstr "Pencereyi en üste yerleştir"
+
+#: ../src/option.c:216
+msgid "Place window on center of screen"
+msgstr "Pencereyi ekran ortasına yerleştir"
+
+#: ../src/option.c:222
+msgid "Place window at the mouse position"
+msgstr "Pencereyi fare konumuna yerleştir"
+
+#: ../src/option.c:228
+msgid "Set window undecorated"
+msgstr "Pencereyi çıplak yap"
+
+#: ../src/option.c:234
+msgid "Don't show window in taskbar"
+msgstr "Pencereyi görev çubuğunda gösterme"
+
+#: ../src/option.c:240
+msgid "Set window maximized"
+msgstr "Pencereyi büyütülmüş yap"
+
+#: ../src/option.c:246
+msgid "Set window fulscreen"
+msgstr "Pencereyi tam ekran yap"
+
+#: ../src/option.c:252
+msgid "Special type of dialog for XEMBED"
+msgstr "XEMBED için özel diyalog türü"
+
+#: ../src/option.c:253 ../src/option.c:851
+msgid "KEY"
+msgstr "ANAHTAR"
+
+#: ../src/option.c:258
+msgid "Tab nubmer of this dialog"
+msgstr "Bu kutunun sekme numarası"
+
+#: ../src/option.c:265
+msgid "Send SIGNAL to parent"
+msgstr "Yukarı SİNYAL gönder"
+
+#: ../src/option.c:266
+msgid "SIGNAL"
+msgstr "SİNYAL"
+
+#: ../src/option.c:271
+msgid "Print X Window Id to the stderr"
+msgstr "X Pencere Kimliğini stderr'e yazdır"
+
+#: ../src/option.c:278
+msgid "Add path for search icons by name"
+msgstr "Ada göre simge aramak için yol ekle"
+
+#: ../src/option.c:279
+msgid "PATH"
+msgstr "YOL"
+
+#: ../src/option.c:288
+msgid "Display calendar dialog"
+msgstr "Takvim kutusunu görüntüle"
+
+#: ../src/option.c:294
+msgid "Set the calendar day"
+msgstr "Takvim gününü ayarla"
+
+#: ../src/option.c:295
+msgid "DAY"
+msgstr "GÜN"
+
+#: ../src/option.c:300
+msgid "Set the calendar month"
+msgstr "Takvim ayını ayarla"
+
+#: ../src/option.c:301
+msgid "MONTH"
+msgstr "AY"
+
+#: ../src/option.c:306
+msgid "Set the calendar year"
+msgstr "Takvim yılını ayarla"
+
+#: ../src/option.c:307
+msgid "YEAR"
+msgstr "YIL"
+
+#: ../src/option.c:312 ../src/option.c:589
+msgid "Set the format for the returned date"
+msgstr "Gelen tarihin biçimini ayarla"
+
+#: ../src/option.c:313 ../src/option.c:590 ../src/option.c:649
+msgid "PATTERN"
+msgstr "DESEN"
+
+#: ../src/option.c:318
+msgid "Set the filename with dates details"
+msgstr "Dosya adını tarih ayrıntılarıyla ayarla"
+
+#: ../src/option.c:319 ../src/option.c:347 ../src/option.c:467 ../src/option.c:931 ../src/option.c:1156
+#: ../src/option.c:1200
+msgid "FILENAME"
+msgstr "DOSYA ADI"
+
+#: ../src/option.c:328
+msgid "Display color selection dialog"
+msgstr "Renk seçimi kutusunu görüntüle"
+
+#: ../src/option.c:334
+msgid "Alias for --color"
+msgstr "--color için lakap"
+
+#: ../src/option.c:340
+msgid "Set initial color value"
+msgstr "Başlangıç renk değerini ayarla"
+
+#: ../src/option.c:341 ../src/option.c:1114 ../src/option.c:1120
+msgid "COLOR"
+msgstr "RENK"
+
+#: ../src/option.c:346
+msgid "Set path to palette file. Default - "
+msgstr "Palet dosyasının yolunu ayarlayın. Varsayılan - "
+
+#: ../src/option.c:352
+msgid "Use #rrrrggggbbbb format instead of #rrggbb"
+msgstr "#rrggbb yerine #rrrrggggbbbb biçimini kullan"
+
+#: ../src/option.c:362
+msgid "Display drag-n-drop box"
+msgstr "Sürükle-bırak kutusunu görüntüle"
+
+#: ../src/option.c:368
+msgid "Use dialog text as tooltip"
+msgstr "Kutu metnini araç ipucu olarak kullan"
+
+#: ../src/option.c:374
+msgid "Set command for process d-n-d data"
+msgstr "Sürükle-Bırak verisini işlemek için komut ayarla"
+
+#: ../src/option.c:375 ../src/option.c:433 ../src/option.c:445 ../src/option.c:774 ../src/option.c:885
+msgid "CMD"
+msgstr "KOMUT"
+
+#: ../src/option.c:384
+msgid "Display text entry or combo-box dialog"
+msgstr "Metin veya kombo seçim girdisini görüntüle"
+
+#: ../src/option.c:390
+msgid "Set the entry label"
+msgstr "Girdi etiketini ayarla"
+
+#: ../src/option.c:396
+msgid "Set the entry text"
+msgstr "Girdi metnini ayarla"
+
+#: ../src/option.c:402
+msgid "Hide the entry text"
+msgstr "Girdi metnini gizle"
+
+#: ../src/option.c:408
+msgid "Use completion instead of combo-box"
+msgstr "Kombo seçim yerine tamamlamayı kullan"
+
+#: ../src/option.c:414
+msgid "Use spin button for text entry"
+msgstr "Metin girişi için döndürme tuşunu kullan"
+
+#: ../src/option.c:420
+msgid "Allow changes to text in combo-box"
+msgstr "Kombo metninde değişiklik yapılmasına izin ver"
+
+#: ../src/option.c:426
+msgid "Set the left entry icon"
+msgstr "Sol girdi simgesini ayarla"
+
+#: ../src/option.c:432
+msgid "Set the left entry icon action"
+msgstr "Sol girdi simgesi eylemini ayarla"
+
+#: ../src/option.c:438
+msgid "Set the right entry icon"
+msgstr "Sağ girdi simgesini ayarla"
+
+#: ../src/option.c:444
+msgid "Set the right entry icon action"
+msgstr "Sağ girdi simgesi eylemini ayarla"
+
+#: ../src/option.c:454
+msgid "Display file selection dialog"
+msgstr "Dosya seçimi kutusunu görüntüle"
+
+#: ../src/option.c:460
+msgid "Alias for --file"
+msgstr "--file için lakap"
+
+#: ../src/option.c:466
+msgid "Set the filename"
+msgstr "Dosya adını ayarla"
+
+#: ../src/option.c:472
+msgid "Allow multiple files to be selected"
+msgstr "Çoklu dosya seçimine izin ver"
+
+#: ../src/option.c:478
+msgid "Activate directory-only selection"
+msgstr "Sadece dizin seçimini etkinleştir"
+
+#: ../src/option.c:484
+msgid "Activate save mode"
+msgstr "Kayıt modunu etkinleştir"
+
+#: ../src/option.c:490 ../src/option.c:577 ../src/option.c:713
+msgid "Set output separator character"
+msgstr "Çıkış ayırıcı karakteri ayarla"
+
+#: ../src/option.c:491 ../src/option.c:578 ../src/option.c:584 ../src/option.c:714 ../src/option.c:897
+#: ../src/option.c:903
+msgid "SEPARATOR"
+msgstr "AYIRICI"
+
+#: ../src/option.c:496
+msgid "Confirm file selection if filename already exists"
+msgstr "Dosya adı zaten mevcutsa dosya seçimini onayla"
+
+#: ../src/option.c:497
+msgid "[TEXT]"
+msgstr "[METİN]"
+
+#: ../src/option.c:502
+msgid "Sets a filename filter"
+msgstr "Dosya adı süzgecini ayarla"
+
+#: ../src/option.c:503
+msgid "NAME | PATTERN1 PATTERN2 ..."
+msgstr "İSİM | DESEN1 DESEN2 ..."
+
+#: ../src/option.c:508
+msgid "Enable preview"
+msgstr "Önizlemeyi etkinleştir"
+
+#: ../src/option.c:514 ../src/option.c:601 ../src/option.c:791
+msgid "Quote dialogs output"
+msgstr "Kutu çıktısını alıntıla"
+
+#: ../src/option.c:524
+msgid "Display font selection dialog"
+msgstr "Yazı tipi seçim kutusunu görüntüle"
+
+#: ../src/option.c:530
+msgid "Alias for --font"
+msgstr "--font için lakap"
+
+#: ../src/option.c:536
+msgid "Set initial font"
+msgstr "Başlangıç yazı tipini ayarla"
+
+#: ../src/option.c:537 ../src/option.c:955 ../src/option.c:1126
+msgid "FONTNAME"
+msgstr "YAZI TİPİ ADI"
+
+#: ../src/option.c:542
+msgid "Set preview text"
+msgstr "Önizleme metnini ayarla"
+
+#: ../src/option.c:552
+msgid "Display form dialog"
+msgstr "Form kutusunu görüntüle"
+
+#: ../src/option.c:559
+msgid ""
+"Add field to form (TYPE - H, RO, NUM, CHK, CB, CBE, FL, SFL, MFL, DIR, CDIR, MDIR, FN, DT, SCL, CLR, BTN, FBTN, LBL "
+"or TXT)"
+msgstr ""
+"Forma alan ekleyin (TYPE - H, RO, NUM, CHK, CB, CBE, FL, SFL, MFL, DIR, CDIR, MDIR, FN, DT, SCL, CLR, BTN, FBTN, LBL "
+"veya TXT)"
+
+#: ../src/option.c:560 ../src/option.c:808
+msgid "LABEL[:TYPE]"
+msgstr "ETİKET[:TÜR]"
+
+#: ../src/option.c:565
+msgid "Set alignment of filed labels (left, center or right)"
+msgstr "Yazılan tiketlerin hizasını ayarla (sol, orta veya sağ)"
+
+#: ../src/option.c:571
+msgid "Set number of columns in form"
+msgstr "Formdaki sütun sayısını ayarla"
+
+#: ../src/option.c:583
+msgid "Set separator character for combobox or scale data"
+msgstr "Birleşik girdi veya ölçek verileri için ayırıcı karakteri ayarla"
+
+#: ../src/option.c:595
+msgid "Make form scrollable"
+msgstr "Formu kaydırılabilir yap"
+
+#: ../src/option.c:611
+msgid "Display icons box dialog"
+msgstr "Simge kutusunu görüntüle"
+
+#: ../src/option.c:617
+msgid "Read data from .desktop files in specified directory"
+msgstr "Belirtilen dizindeki .desktop dosyalarından verileri oku"
+
+#: ../src/option.c:618
+msgid "DIRECTORY"
+msgstr "REHBER"
+
+#: ../src/option.c:623
+msgid "Use compact (list) view"
+msgstr "Kompakt (liste) görünümünü kullan"
+
+#: ../src/option.c:629
+msgid "Use GenericName field instead of Name for icon label"
+msgstr "Simge etiketi için Name yerine GenericName alanını kullan"
+
+#: ../src/option.c:635
+msgid "Read data from stdin"
+msgstr "Veri oku stdin"
+
+#: ../src/option.c:641
+msgid "Set the width of dialog items"
+msgstr "Kutu öğelerinin genişliğini ayarla"
+
+#: ../src/option.c:648
+#, no-c-format
+msgid "Use specified pattern for launch command in terminal (default: xterm -e %s)"
+msgstr "Uçbirimde başlatma komutu için belirtilen deseni kullan (varsayılan: xterm -e %s)"
+
+#: ../src/option.c:654
+msgid "Sort items by name instead of filename"
+msgstr "Öğeleri dosya adı yerine ada göre sırala"
+
+#: ../src/option.c:660
+msgid "Sort items in descending order"
+msgstr "Öğeleri azalan düzende sırala"
+
+#: ../src/option.c:666
+msgid "Activate items by single click"
+msgstr "Öğeleri tek tıkla etkinleştir"
+
+#: ../src/option.c:676
+msgid "Display list dialog"
+msgstr "Liste kutusunu görüntüle"
+
+#: ../src/option.c:682
+msgid "Don't show column headers"
+msgstr "Süyun başlıklarını gösterme"
+
+#: ../src/option.c:688
+msgid "Set the column header (TYPE - TEXT, NUM, FLT, CHK, RD, IMG, HD or TIP)"
+msgstr "Sütun başlığını ayarla (TYPE - TEXT, NUM, FLT, CHK, RD, IMG, HD veya TIP)"
+
+#: ../src/option.c:689
+msgid "COLUMN[:TYPE]"
+msgstr "SÜTUN[:TÜR]"
+
+#: ../src/option.c:694
+msgid "Use checkboxes for first column"
+msgstr "İlk sütun için tik onayını kullan"
+
+#: ../src/option.c:700
+msgid "Use radioboxes for first column"
+msgstr "İlk sütun için radyo onayını kullan"
+
+#: ../src/option.c:706
+msgid "Disable clickable column headers"
+msgstr "Tıklanabilir sütun başlıklarını devre dışı bırak"
+
+#: ../src/option.c:719
+msgid "Allow multiple rows to be selected"
+msgstr "Çoklu satır seçimine izin ver"
+
+#: ../src/option.c:725 ../src/option.c:1161
+msgid "Allow changes to text"
+msgstr "Metinde değişiklik yapılmasına izin ver"
+
+#: ../src/option.c:731
+msgid "Print all data from list"
+msgstr "Listedeki tüm verileri yazdır"
+
+#: ../src/option.c:737
+msgid "Set ellipsize mode for text columns (TYPE - NONE, START, MIDDLE or END)"
+msgstr "Metin sütunları için eliptik modunu ayarla (TYPE - NONE, START, MIDDLE veya END)"
+
+#: ../src/option.c:743
+msgid "Print a specific column. By default or if 0 is specified will be printed all columns"
+msgstr "Belirli bir sütunu yazdırın. Varsayılan olarak veya 0 belirtilirse tüm sütun yazdırılacak"
+
+#: ../src/option.c:749
+msgid "Hide a specific column"
+msgstr "Belirli bir sütunu gizle"
+
+#: ../src/option.c:755
+msgid "Set the column expandable by default. 0 sets all columns expandable"
+msgstr "Sütunu varsayılan olarak genişletilebilir olarak ayarla. 0 tüm sütunların genişletilebilir olmasını ayarlar"
+
+#: ../src/option.c:761
+msgid "Set the quick search column. Default is first column. Set it to 0 for disable searching"
+msgstr "Hızlı arama sütununu ayarla. Varsayılan ilk sütundur. Aramayı iptal için 0 yap"
+
+#: ../src/option.c:767
+msgid "Set the limit of rows in list"
+msgstr "Listedeki satır sınırını ayarla"
+
+#: ../src/option.c:773
+msgid "Set double-click action"
+msgstr "Çift tık eylemini ayarla"
+
+#: ../src/option.c:779
+msgid "Use regex in search"
+msgstr "Aramada regex kullan"
+
+#: ../src/option.c:785
+msgid "Listen for data on stdin in addition to command-line"
+msgstr "Komut satırına ek olarak stdin verilerini dinle"
+
+#: ../src/option.c:801
+msgid "Display multi progress bars dialog"
+msgstr "Çoklu ilerleme çubuğu kutusunu görüntüle"
+
+#: ../src/option.c:807
+msgid "Add the progress bar (TYPE - NORM, RTL or PULSE)"
+msgstr "İlerleme çubuğunu ekley (TYPE - NORM, RTL veya PULSE)"
+
+#: ../src/option.c:813
+msgid "Show vertical bars"
+msgstr "Dikey çubukları göster"
+
+#: ../src/option.c:819
+msgid "Set alignment of bar labels (left, center or right)"
+msgstr "Çubuk etiketlerinin hizasını ayarla (sol, orta veya sağ)"
+
+#: ../src/option.c:826
+#, no-c-format
+msgid "Dismiss the dialog when 100% of all bars has been reached"
+msgstr "Tüm çubuklar %100 ulaştığında kutuyu kapat"
+
+#: ../src/option.c:833 ../src/option.c:996
+msgid "Kill parent process if cancel button is pressed"
+msgstr "İptal düğmesine basıldığında üst işlemi sonlandır"
+
+#: ../src/option.c:844
+msgid "Display notebook dialog"
+msgstr "Not defteri kutusunu görüntüle"
+
+#: ../src/option.c:850
+msgid "Identifier of embedded dialogs"
+msgstr "Gömülü diyalog tanımlayıcısı"
+
+#: ../src/option.c:856
+msgid "Add a tab to notebook"
+msgstr "Not defterine sekme ekle"
+
+#: ../src/option.c:857
+msgid "LABEL"
+msgstr "ETİKET"
+
+#: ../src/option.c:862
+msgid "Set position of a notebook tabs (top, bottom, left or right)"
+msgstr "Not defteri sekmelerinin konumunu ayarla (üst, alt, sol veya sağ)"
+
+#: ../src/option.c:868
+msgid "Set tab borders"
+msgstr "Sekme kenarlarını ayarla"
+
+#: ../src/option.c:878
+msgid "Display notification"
+msgstr "Bildirimi görüntüle"
+
+#: ../src/option.c:884
+msgid "Set left-click action"
+msgstr "Sol tık eylemini ayarla"
+
+#: ../src/option.c:890
+msgid "Listen for commands on stdin"
+msgstr "Stdin komutları dinle"
+
+#: ../src/option.c:896
+msgid "Set separator character for menu values"
+msgstr "Menü değerleri için ayırıcı karakter ayarla"
+
+#: ../src/option.c:902
+msgid "Set separator character for menu items"
+msgstr "Menü öğeleri için ayırıcı karakter ayarla"
+
+#: ../src/option.c:908
+msgid "Set initial popup menu"
+msgstr "İlk açılır menüyü ayarla"
+
+#: ../src/option.c:909
+msgid "STRING"
+msgstr "DEĞER"
+
+#: ../src/option.c:914
+msgid "Disable exit on middle click"
+msgstr "Orta tıkla çıkış devre dışı"
+
+#: ../src/option.c:924
+msgid "Display printing dialog"
+msgstr "Yazdırma kutusunu görüntüle"
+
+#: ../src/option.c:930
+msgid "Source filename"
+msgstr "Kaynak dosya adı"
+
+#: ../src/option.c:936
+msgid "Set source type (TYPE - TEXT, IMAGE or RAW)"
+msgstr "Kaynak türünü ayarla (TYPE - TEXT, IMAGE veya RAW)"
+
+#: ../src/option.c:942
+msgid "Add headers to page"
+msgstr "Sayfaya başlık ekle"
+
+#: ../src/option.c:948
+msgid "Enable preview in print dialog"
+msgstr "Yazdırma kutusunda önizlemeyi etkinleştir"
+
+#: ../src/option.c:954 ../src/option.c:1125
+msgid "Use specified font"
+msgstr "Belirli yazı tipini kullan"
+
+#: ../src/option.c:964
+msgid "Display progress indication dialog"
+msgstr "İlerleme göstergesi kutusunu görüntüle"
+
+#: ../src/option.c:970
+msgid "Set progress text"
+msgstr "İlerleme metnini ayarla"
+
+#: ../src/option.c:976
+msgid "Set initial percentage"
+msgstr "Başlangıç yüzdesini ayarla"
+
+#: ../src/option.c:977
+msgid "PERCENTAGE"
+msgstr "YÜZDE"
+
+#: ../src/option.c:982
+msgid "Pulsate progress bar"
+msgstr "İlerleme çubuğunu dikkat çek"
+
+#: ../src/option.c:989
+#, no-c-format
+msgid "Dismiss the dialog when 100% has been reached"
+msgstr "%100 olduğunda kutuyu kapat"
+
+#: ../src/option.c:1003
+msgid "Right-To-Left progress bar direction"
+msgstr "Sağdan Sola ilerleme çubuğu yönü"
+
+#: ../src/option.c:1009
+msgid "Show log window"
+msgstr "Günlük penceresini göster"
+
+#: ../src/option.c:1015
+msgid "Expand log window"
+msgstr "Günlük penceresini genişlet"
+
+#: ../src/option.c:1021
+msgid "Place log window above progress bar"
+msgstr "Günlük penceresini ilerleme çubuğunun üstüne yerleştir"
+
+#: ../src/option.c:1027
+msgid "Height of log window"
+msgstr "Günlük penceresinin yüksekliği"
+
+#: ../src/option.c:1037
+msgid "Display scale dialog"
+msgstr "Ölçek kutusunu görüntüle"
+
+#: ../src/option.c:1043
+msgid "Set initial value"
+msgstr "Başlangıç değerini ayarla"
+
+#: ../src/option.c:1044 ../src/option.c:1050 ../src/option.c:1056 ../src/option.c:1062 ../src/option.c:1068
+msgid "VALUE"
+msgstr "DEĞER"
+
+#: ../src/option.c:1049
+msgid "Set minimum value"
+msgstr "Minimum değeri ayarla"
+
+#: ../src/option.c:1055
+msgid "Set maximum value"
+msgstr "Maksimum değeri ayarla"
+
+#: ../src/option.c:1061
+msgid "Set step size"
+msgstr "Adımı ayarla"
+
+#: ../src/option.c:1067
+msgid "Set paging size"
+msgstr "Sayfalamayı ayarla"
+
+#: ../src/option.c:1073
+msgid "Print partial values"
+msgstr "Kısmi değerleri yazdır"
+
+#: ../src/option.c:1079
+msgid "Hide value"
+msgstr "Değeri gizle"
+
+#: ../src/option.c:1085
+msgid "Show vertical scale"
+msgstr "Dikey ölçeği göster"
+
+#: ../src/option.c:1091
+msgid "Invert direction"
+msgstr "Yönü çevir"
+
+#: ../src/option.c:1097
+msgid "Add mark to scale (may be used multiple times)"
+msgstr "Ölçeğe işaret ekle (birçok kez kullanılabilir)"
+
+#: ../src/option.c:1098
+msgid "NAME:VALUE"
+msgstr "İSİM:DEĞER"
+
+#: ../src/option.c:1107
+msgid "Display text information dialog"
+msgstr "Metin bilgisi kutusunu görüntüle"
+
+#: ../src/option.c:1113
+msgid "Use specified color for text"
+msgstr "Metin için belirli rengi kullan"
+
+#: ../src/option.c:1119
+msgid "Use specified color for background"
+msgstr "Arka plan için belirli rengi kullan"
+
+#: ../src/option.c:1131
+msgid "Enable text wrapping"
+msgstr "Metin kaydırmayı etkinleştir"
+
+#: ../src/option.c:1137
+msgid "Set justification (TYPE - left, right, center or fill)"
+msgstr "Yaslamayı ayarla (TÜR - sol, sağ, orta veya doldur)"
+
+#: ../src/option.c:1143
+msgid "Set text margins"
+msgstr "Metin kenarlarını ayarla"
+
+#: ../src/option.c:1144
+msgid "SIZE"
+msgstr "BOYUT"
+
+#: ../src/option.c:1149
+msgid "Autoscroll to end of text"
+msgstr "Metnin sonunda otomatik kaydır"
+
+#: ../src/option.c:1155
+msgid "Open file"
+msgstr "Dosya aç"
+
+#: ../src/option.c:1167
+msgid "Make URI clickable"
+msgstr "URI tıklanabilir hale getir"
+
+#: ../src/option.c:1173
+msgid "Listen for data on stdin in addition to file"
+msgstr "Dosyaya ek olarak stdin verilerini dinle"
+
+#: ../src/option.c:1183
+msgid "Show about dialog"
+msgstr "Hakkında kutusunu göster"
+
+#: ../src/option.c:1189
+msgid "Print version"
+msgstr "Sürümü göster"
+
+#: ../src/option.c:1199
+msgid "Load extra arguments from file"
+msgstr "Dosyadan ek seçenekleri yükle"
+
+#: ../src/option.c:1244 ../src/option.c:1459
+#, c-format
+msgid "Unknown align type: %s\n"
+msgstr "Bilinmeyen hizalama türü: %s\n"
+
+#: ../src/option.c:1401
+#, c-format
+msgid "Mark %s doesn't have a value\n"
+msgstr "%s işaretinin bir değeri yok\n"
+
+#: ../src/option.c:1444
+#, c-format
+msgid "Unknown buttons layout type: %s\n"
+msgstr "Bilinmeyen tuş düzeni türü: %s\n"
+
+#: ../src/option.c:1476
+#, c-format
+msgid "Unknown justification type: %s\n"
+msgstr "Bilinmeyen yaslama türü: %s\n"
+
+#: ../src/option.c:1493
+#, c-format
+msgid "Unknown tab position type: %s\n"
+msgstr "Bilinmeyen sekme konumu türü: %s\n"
+
+#: ../src/option.c:1529
+#, c-format
+msgid "Unknown ellipsize type: %s\n"
+msgstr "Bilinmeyen eliptik türü: %s\n"
+
+#: ../src/option.c:1544
+#, c-format
+msgid "Unknown source type: %s\n"
+msgstr "Bilinmeyen kaynak türü: %s\n"
+
+#: ../src/option.c:1555
+msgid "Progress log"
+msgstr "İlerleme günlüğü"
+
+#: ../src/option.c:1664
+#, c-format
+msgid "Unknown signal: %s\n"
+msgstr "Bilinmeyen sinyal: %s\n"
+
+#: ../src/option.c:1807
+msgid "File exist. Overwrite?"
+msgstr "Dosya mevcut. Üzerine yazılsın mı?"
+
+#: ../src/option.c:1900
+msgid "Yet another dialoging program"
+msgstr "Yine Ayrı Diyalog uygulaması"
+
+#. Adds general option entries
+#: ../src/option.c:1904
+msgid "General options"
+msgstr "Genel seçenekler"
+
+#: ../src/option.c:1904
+msgid "Show general options"
+msgstr "Genel seçenekleri göster"
+
+#. Adds calendar option entries
+#: ../src/option.c:1910
+msgid "Calendar options"
+msgstr "Takvim seçenekleri"
+
+#: ../src/option.c:1910
+msgid "Show calendar options"
+msgstr "Takvim seçeneklerini göster"
+
+#. Adds color option entries
+#: ../src/option.c:1916
+msgid "Color selection options"
+msgstr "Renk seçimi seçenekleri"
+
+#: ../src/option.c:1916
+msgid "Show color selection options"
+msgstr "Renk seçimi seçeneklerini göster"
+
+#. Adds dnd option entries
+#: ../src/option.c:1922
+msgid "DND options"
+msgstr "SürükleBırak seçenekleri"
+
+#: ../src/option.c:1922
+msgid "Show drag-n-drop options"
+msgstr "Sürükle ve bırak seçeneklerini göster"
+
+#. Adds entry option entries
+#: ../src/option.c:1928
+msgid "Text entry options"
+msgstr "Metin girişi seçenekleri"
+
+#: ../src/option.c:1928
+msgid "Show text entry options"
+msgstr "Metin girişi seçeneklerini göster"
+
+#. Adds file selection option entries
+#: ../src/option.c:1934
+msgid "File selection options"
+msgstr "Dosya seçim seçenekleri"
+
+#: ../src/option.c:1934
+msgid "Show file selection options"
+msgstr "Dosya seçim seçeneklerini göster"
+
+#. Add font selection option entries
+#: ../src/option.c:1940
+msgid "Font selection options"
+msgstr "Yazı tipi seçim seçenekleri"
+
+#: ../src/option.c:1940
+msgid "Show font selection options"
+msgstr "Yazı tipi seçimi seçeneklerini göster"
+
+#. Add form option entries
+#: ../src/option.c:1946
+msgid "Form options"
+msgstr "Form seçenekleri"
+
+#: ../src/option.c:1946
+msgid "Show form options"
+msgstr "Form seçeneklerini göster"
+
+#. Add icons option entries
+#: ../src/option.c:1952
+msgid "Icons box options"
+msgstr "Simge kutusu seçenekleri"
+
+#: ../src/option.c:1952
+msgid "Show icons box options"
+msgstr "Simge kutusu seçeneklerini göster"
+
+#. Adds list option entries
+#: ../src/option.c:1958
+msgid "List options"
+msgstr "Liste seçenekleri"
+
+#: ../src/option.c:1958
+msgid "Show list options"
+msgstr "Liste seçeneklerini göster"
+
+#. Adds multi progress option entries
+#: ../src/option.c:1964
+msgid "Multi progress bars options"
+msgstr "Çoklu ilerleme çubuğu seçenekleri"
+
+#: ../src/option.c:1965
+msgid "Show multi progress bars options"
+msgstr "Çoklu ilerleme çubuğu seçeneklerini göster"
+
+#. Adds notebook option entries
+#: ../src/option.c:1971
+msgid "Notebook options"
+msgstr "Not defteri kutusu seçenekleri"
+
+#: ../src/option.c:1971
+msgid "Show notebook dialog options"
+msgstr "Not defteri kutusu seçeneklerini göster"
+
+#. Adds notification option entries
+#: ../src/option.c:1977
+msgid "Notification icon options"
+msgstr "Bildirim simgesi seçenekleri"
+
+#: ../src/option.c:1978
+msgid "Show notification icon options"
+msgstr "Bildirim simgesi seçeneklerini göster"
+
+#. Adds print option entries
+#: ../src/option.c:1984
+msgid "Print dialog options"
+msgstr "Yazdırma kutusu seçenekleri"
+
+#: ../src/option.c:1984
+msgid "Show print dialog options"
+msgstr "Yazdırma kutusu seçeneklerini göster"
+
+#. Adds progress option entries
+#: ../src/option.c:1990
+msgid "Progress options"
+msgstr "İlerleme seçenekleri"
+
+#: ../src/option.c:1990
+msgid "Show progress options"
+msgstr "İlerleme seçeneklerini göster"
+
+#. Adds scale option entries
+#: ../src/option.c:1996
+msgid "Scale options"
+msgstr "Ölçek seçenekleri"
+
+#: ../src/option.c:1996
+msgid "Show scale options"
+msgstr "Ölçek seçeneklerini göster"
+
+#. Adds text option entries
+#: ../src/option.c:2002
+msgid "Text information options"
+msgstr "Metin bilgisi seçenekleri"
+
+#: ../src/option.c:2002
+msgid "Show text information options"
+msgstr "Metin bilgisi seçeneklerini göster"
+
+#. Adds miscellaneous option entries
+#: ../src/option.c:2008
+msgid "Miscellaneous options"
+msgstr "Çeşitli seçenekler"
+
+#: ../src/option.c:2008
+msgid "Show miscellaneous options"
+msgstr "Çeşitli seçenekleri göster"
+
+#: ../src/print.c:202 ../src/print.c:361
+#, c-format
+msgid "Printing failed: %s\n"
+msgstr "Yazdırma başarısız: %s\\\n"
+
+#: ../src/print.c:230
+#, c-format
+msgid "File %s not found.\n"
+msgstr "%s dosyası bulunamadı.\n"
+
+#: ../src/print.c:236
+#, c-format
+msgid "Filename is not specified.\n"
+msgstr "Dosya adı belirtilmedi.\n"
+
+#: ../src/print.c:377
+#, c-format
+msgid "Printer doesn't support ps format.\n"
+msgstr "Yazıcı ps formatını desteklemiyor.\n"
+
+#: ../src/print.c:385
+#, c-format
+msgid "Printer doesn't support pdf format.\n"
+msgstr "Yazıcı pdf formatını desteklemiyor.\n"
+
+#: ../src/print.c:391
+#, c-format
+msgid "This file type is not supported for raw printing.\n"
+msgstr "Bu dosya türü ham yazdırma için desteklenmez.\n"
+
+#: ../src/print.c:405
+#, c-format
+msgid "Load source file failed: %s\n"
+msgstr "Kaynak dosya yüklenemedi: %s\n"
+
+#: ../src/color.c:65
+#, c-format
+msgid "Can't open file %s: %s\n"
+msgstr "%s dosyası açılamıyor: %s\n"
+
+#. create expander
+#: ../src/color.c:150
+msgid "Palette"
+msgstr "Palet"
+
+#: ../src/color.c:169
+msgid "Color"
+msgstr "Renk"
+
+#: ../src/color.c:186
+msgid "Name"
+msgstr "İsim"
+
+#: ../src/text.c:418
+#, c-format
+msgid "Invalid UTF-8 data encountered reading file %s\n"
+msgstr "%s dosyası okunurken geçersiz UTF-8 verileriyle karşılaşıldı\n"
+
+#: ../src/browser.c:132
+msgid "scalable "
+msgstr "ölçeklenebilir "
+
+#: ../src/browser.c:142
+msgid "built-in"
+msgstr "yerleşik"
+
+#. initialize GTK+ and parse the command line arguments
+#: ../src/browser.c:200
+msgid "- Icon browser"
+msgstr "- Simge tarayıcı"
+
+#: ../src/browser.c:213
+msgid "Icon browser"
+msgstr "Simge tarayıcısı"
+
+#: ../src/browser.c:247
+msgid "<b>Name:</b>"
+msgstr "<b>Ad:</b>"
+
+#: ../src/browser.c:265
+msgid "<b>Sizes:</b>"
+msgstr "<b>Boyutlar:</b>"
+
+#: ../src/browser.c:283
+msgid "<b>Filename:</b>"
+msgstr "<b>Dosya adı:</b>"
+
+#: ../src/browser.c:325
+msgid "Category"
+msgstr "Kategori"
+
+#: ../src/browser.c:356
+msgid "Icons"
+msgstr "Simgeler"
+
+#: ../data/yad-icon-browser.desktop.in.h:1
+msgid "Icon Browser"
+msgstr "Simge Tarayıcı"
+
+#: ../data/yad-icon-browser.desktop.in.h:2
+msgid "Inspect GTK Icon Theme"
+msgstr "GTK Simge Temasını İncele"
+
+#, fuzzy
+#~ msgid "NUM"
+#~ msgstr "ZAHL"
+
+#~ msgid "Alias to checklist (deprecated)"
+#~ msgstr "Alias für Ankreuzfeld (veraltet)"
+
+#, fuzzy
+#~ msgid "Unknown text align type: %s\n"
+#~ msgstr "Befehl '%s' unbekannt\n"
+
+#~ msgid "Error loading window icon %s: %s\n"
+#~ msgstr "Fehler beim Laden von Fenster-Symbol %s: %s\n"
+
+#~ msgid "Value out of range.\n"
+#~ msgstr "Wert außerhalb des Bereiches.\n"
+
+#, fuzzy
+#~ msgid "Enable drag-n-drop support"
+#~ msgstr "Kalender-Dialog"
+
+#~ msgid "Could not parse command from stdin\n"
+#~ msgstr "Kann Befehl von stdin nicht einlesen\n"
+
+#~ msgid "Add field to form"
+#~ msgstr "Feld zu Formular hinzufügen"
